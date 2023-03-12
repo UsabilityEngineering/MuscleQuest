@@ -1,1 +1,3 @@
 # Sketches
+
+[(https://cdn.discordapp.com/attachments/1073340582463803474/1078090925491896320/7FBB8586-69FA-4B2F-AA06-D510C1873FCA.jpg)]
