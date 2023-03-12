@@ -21,10 +21,18 @@
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* Competitive Analysis of leading competitors found a few opportunities for improvement:
+       * Priceline: Lots of people who are slightly interested in beginning to workout are barred behind a massive paywall from all competitors.
+       * Enjoyment: Workout applications always help guide the user through exercises but aside from that they lack the motivation to help people want to workout.
+* Heuristic Evaluation found that the functionality of competitor’s applications are all relatively similar with strongly differing designs and user interface.
+* Personas and Scenarios created to reflect the wants and needs of users:
+       * Completely free for all users in order to allow anyone to use.
+       * Experience and loot earning system to motivate users to continue playing/working out.
+       * Rotating challenges every day to liven up users' everyday workouts.
+* Sketches and Wireframe illustrate early concepts and builds of the UI.
+       * Character customization visible from home screen.
+       * All sub-menus accessible from the home screen.
+
 
 [Full phase I report](phaseI/)
 
