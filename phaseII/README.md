@@ -6,7 +6,7 @@ The main focus of this application is to gamify the process of working out. To a
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
+After we created a functioning wireframe, other groups performed cognitive walkthroughs on this wireframe in order to see how well they could navigate our application and then gave us feedback on their experience. Through these cognitive walkthroughs we received feedback on a few areas that needed changes.
 
 
 
