@@ -10,12 +10,13 @@ We began this phase by creating a wireframe that showcased the flow of each page
 
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+* Firstly, we found that users would like the reassurance that their data is saved at all times. This made us think about the use of a save button or a small piece of text that tells users their data was saved every 15 minutes or so.
+* The majority of feedback told us that most users think the site needs to resemble a game better, instead of just being a workout site, since that is what we market the app as. 
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+Taking in these findings, we learned that the application needed to closer resemble a game. In order to achieve this, there has been the implementation of a loot system and character customization, giving players something to grind for and continue working out. This would make the app feel much more like a game since it gives constant incentive to play. In conclusion, we believe that these implementations would better fit the user's needs of having a gamified workout app.
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+* The only limitation was that the wireframe didn't have the ability to convey the feeling of a game all too well since through the cognitive walkthrough, users weren't able to access the loot system, earn resources, or view the store. This could be a reason as to why users thought the app appeared to not resemble a game very well.
