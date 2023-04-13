@@ -14,7 +14,7 @@
 !!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
-* [Wireframes](#) - Coming soon (phase II)!
+* [Wireframes]
 * [Prototype](#) - Coming soon (phase III)!
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
@@ -39,11 +39,11 @@
 # Phase II: Refining interaction and designing wireframes
 
 **Executive Summary**
-
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+*Wireframes:
+      *We worked through the flow of our site (so far) and implemented a skeleton for what the site will eventually look like, leaving out certain functionalities.
+*Cognitive Walkthroughs:
+      *We performed multiple cognitive walkthroughs on the wireframes that our peers created. As well as this, we also received feedback from the walkthroughs that were performed on our wireframe.
+*After reviewing these results we decided that the application needs to closely resemble a game inorder to keep those users who are attracted by the game aspect. As well as this, we need to implement save buttons in certain sections of the site to ensure users that their data/progress is secure.
 
 [Full phase II report](phaseII/)
 
