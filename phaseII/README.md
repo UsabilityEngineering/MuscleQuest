@@ -6,9 +6,7 @@ The main focus of this application is to gamify the process of working out. To a
 
 ## Methods
 
-After we created a functioning wireframe, other groups performed cognitive walkthroughs on this wireframe in order to see how well they could navigate our application and then gave us feedback on their experience. Through these cognitive walkthroughs we received feedback on a few areas that needed changes.
-
-
+We began this phase by creating a wireframe that showcased the flow of each page of our application. After we created a functioning wireframe, other groups performed cognitive walkthroughs on this wireframe in order to see how well they could navigate our application and then gave us feedback on their experience and whether or not they had any suggestions for the site.
 
 ## Findings
 
