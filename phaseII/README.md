@@ -19,4 +19,4 @@ Taking in these findings, we learned that the application needed to closer resem
 
 ## Caveats
 
-* The only limitation was that the wireframe didn't have the ability to convey the feeling of a game all too well since through the cognitive walkthrough, users weren't able to access the loot system, earn resources, or view the store. This could be a reason as to why users thought the app appeared to not resemble a game very well.
+The only limitation was that the wireframe didn't have the ability to convey the feeling of a game all too well since through the cognitive walkthrough, users weren't able to access the loot system, earn resources, or view the store. This could be a reason as to why users thought the app appeared to not resemble a game very well.
