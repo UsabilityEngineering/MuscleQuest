@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Our main goal is to gamify working out. There have been some apps that have tried doing this but none have really done it well. The idea is you get rewarded for completing work outs by earning experience or specific loot drops. This adds a form of enjoyment into the application that other workout apps do not include. Especially targeting gamers, our app can also be for non-gamers who need a better way to motivate themselves. However, from a “gamer” sense, grinding a game for rewards is a very common past-time, and to be able to include physical exercise into this process, it could potentially help lots of people get in shape. 
+The main focus of this application is to gamify the process of working out. To achieve this, we have begun developing an app that utilizes a loot system, character customization and even an in-game resource-based store. During this phase we created a wireframe of this application and received cognitive walkthroughs performed on this wireframe. Our findings can be found below.
 
 ## Methods
 
