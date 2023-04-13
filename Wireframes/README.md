@@ -15,4 +15,4 @@
 * Below is the settings screen, which will give the user a few options to change, such as sound and accesibility options.
 ![](images/SettingsScreen.png)
 * Below is the link to the entire wireframe in it's intended form.
-https://xd.adobe.com/view/6daa8ba0-2965-4658-8996-30ddce2cc379-38f9/?fullscreen&hints=off
+* https://xd.adobe.com/view/6daa8ba0-2965-4658-8996-30ddce2cc379-38f9/?fullscreen&hints=off
