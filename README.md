@@ -6,8 +6,8 @@
 
 ## UX Team Members
 
-* **[Ricardo Guzman][(https://usabilityengineering.github.io/ux-portfolio-Rguzman41/)]** - !!!List of Person A's primary contributions!!!
-* **[Jarod Bauer][(https://usabilityengineering.github.io/ux-portfolio-jarod-bauer/)]** - !!!List of Person B's primary contributions!!!
+* **[Ricardo Guzman][(https://usabilityengineering.github.io/ux-portfolio-Rguzman41/)]**
+* **[Jarod Bauer][(https://usabilityengineering.github.io/ux-portfolio-jarod-bauer/)]**
 
 # User-Centered Design Artifacts
  
