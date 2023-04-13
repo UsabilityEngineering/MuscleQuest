@@ -39,10 +39,8 @@
 # Phase II: Refining interaction and designing wireframes
 
 **Executive Summary**
-* Wireframes:
-      * We worked through the flow of our site (so far) and implemented a skeleton for what the site will eventually look like, leaving out certain functionalities.
-* Cognitive Walkthroughs:
-      * We performed multiple cognitive walkthroughs on the wireframes that our peers created. As well as this, we also received feedback from the walkthroughs that were performed on our wireframe.
+* Wireframes: We worked through the flow of our site (so far) and implemented a skeleton for what the site will eventually look like, leaving out certain functionalities.
+* Cognitive Walkthroughs: We performed multiple cognitive walkthroughs on the wireframes that our peers created. As well as this, we also received feedback from the walkthroughs that were performed on our wireframe.
 * After reviewing these results we decided that the application needs to closely resemble a game inorder to keep those users who are attracted by the game aspect. As well as this, we need to implement save buttons in certain sections of the site to ensure users that their data/progress is secure.
 
 [Full phase II report](phaseII/)
