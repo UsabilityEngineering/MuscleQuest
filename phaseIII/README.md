@@ -22,4 +22,5 @@ We began preparing for our user test by preparing a prototype of MuscleQuest whe
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+Considering the questions we asked during the test, we didn't really ask enough questions that were related to the gaming aspects of the apps. It was more so for the workout aspects. While users did appreciate the workout selections and aspects of the app, they wished they would have experienced the gaming aspects. In other words, we wished we had asked questions that were related to the whole point of our app. 
+
