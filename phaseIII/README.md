@@ -16,7 +16,9 @@ We began preparing for our user test by preparing a prototype of MuscleQuest whe
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+  In conclusion, we learned that we definitely need to apply more work to the prototype, as ours was far too similar to a wireframe. Along with this, it would have been more adequate if we added some more interaction to the prototype, allowing users to click around to more pages. Some interaction when the user tries to click and start workouts could have been useful as well. To sum up the prototype, it just needed more work.
+  After the pilot test, we realized that we didn’t touch on the gaming aspect enough. This led to us having zero information on what users thought about the largest part of the application. I think design-wise we should have also emphasized the point of the application being gamified and centered around earning progress and rewards, as this would have allowed us to have questions in the pilot test asking about the gaming aspect.
+
 
 ## Caveats
 
