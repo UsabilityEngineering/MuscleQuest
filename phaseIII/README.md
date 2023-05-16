@@ -8,6 +8,10 @@ Our main goal is to gamify working out. There have been some apps that have trie
 
 !!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
 
+We began this phase by preparing for the pilot test for our product. This test being that it would help us improve the user expereince of our product and see what users would like to see form the app. What we did first was prepare a prototype of MuscleQuest where we can users interations with it. The prototype of our app was essentially what our app looks like but more barebones. 
+
+We began preparing for our user test by preparing a prototype of MuscleQuest where we can users interations with it. The prototype of our app was essentially what our app looks like but more barebones and easy to understand the apps functions. Our approach to th user test was testing to see if our app served the fucntion of being a workout app while also seeing if we "gamified" it enough. 
+
 ## Findings
 
 !!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
