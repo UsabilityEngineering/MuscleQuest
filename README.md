@@ -49,9 +49,7 @@
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* Prototype: We finalized our wireframes into a working prototype for the user testing.
+* User Tests: We performed multiple pilot tests with other students and received lots of feedback. We learned that our prototype was slightly lacking in that it couldn't perform some of our tasks if they involved starting workouts. Another thing we learned is that the user test should have included more tasks related to the gamified aspect of the application.
 
 [Full phase III report](phaseIII/)
