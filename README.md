@@ -1,4 +1,3 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
 
 # Muscle Quest
 
@@ -11,11 +10,10 @@ Our main goal is to gamify working out. There have been some apps that have trie
 
 # User-Centered Design Artifacts
  
-!!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](Wireframes/)
-* [Prototype](#) - Coming soon (phase III)!
+* [Prototype](prototypes/)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
