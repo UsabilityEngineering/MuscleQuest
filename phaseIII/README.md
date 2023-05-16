@@ -10,7 +10,9 @@ We began preparing for our user test by preparing a prototype of MuscleQuest whe
 
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+* We found that the majority of users thought our wireframe needed a bit more to its workflow, meaning that we didn’t include enough pages.
+* Through the pilot test, we found that users would’ve liked more questions to be related to the gaming aspect of the application. 
+* We learned that the workout selection was decent and had enough but it would’ve been better if it was categorized by muscle groups or at least some categorization.
 
 ## Conclusions
 
